@@ -1,0 +1,14 @@
+{
+  "name": "moabplay",
+  "version": "1.0.0",
+  "description": "node and map api",
+  "main": "app.js",
+  "scripts": {
+    "test": "digger"
+  },
+  "author": "wendy goodwin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
